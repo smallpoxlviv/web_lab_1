@@ -1,0 +1,13 @@
+@import "normalize.min.css";
+
+@import "globals.css";
+
+@import "header.css";
+
+@import "introduce_section.css";
+
+@import "light_section.css";
+
+@import "price_section.css";
+
+@import "footer.css";
